@@ -1,0 +1,9 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing Practice project for The Odin Project",
+  "main": "index.js",
+  "repository": "https://github.com/jennycade/testing-practice.git",
+  "author": "Jenny Zonka",
+  "license": "MIT"
+}
