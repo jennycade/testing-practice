@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/jennycade/testing-practice.git",
   "author": "Jenny Zonka",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  }
 }
