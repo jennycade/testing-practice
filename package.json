@@ -6,8 +6,11 @@
   "repository": "https://github.com/jennycade/testing-practice.git",
   "author": "Jenny Zonka",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.1"
+  },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch"
   }
 }
